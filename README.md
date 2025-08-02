@@ -1,7 +1,9 @@
 # COVID-19-TREND-AND-PATTERN-ANALYSIS
 
 📊 COVID-19 Global Impact Report (2020–2025)
-🧩 # Overview
+
+
+🧩  Overview
 
 This report presents a comprehensive analysis of global COVID-19 trends from January 2020 to June 2025. The visualization highlights key metrics, temporal patterns, and country-level comparisons, offering valuable insights into the pandemic’s progression and mortality dynamics.
 
