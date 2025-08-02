@@ -3,6 +3,9 @@
 📊 COVID-19 Global Impact Report (2020–2025)
 
 
+![WhatsApp Image 2025-08-02 at 18 09 52_9d31da0c](https://github.com/user-attachments/assets/d79a55c6-df04-4e29-bdaa-d87d33c2bd57)
+
+
 **🧩  Overview**
 
 This report presents a comprehensive analysis of global COVID-19 trends from January 2020 to June 2025. The visualization highlights key metrics, temporal patterns, and country-level comparisons, offering valuable insights into the pandemic’s progression and mortality dynamics.
