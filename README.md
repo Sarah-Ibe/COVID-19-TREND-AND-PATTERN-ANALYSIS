@@ -9,14 +9,14 @@ This report presents a comprehensive analysis of global COVID-19 trends from Jan
 
 
 
-📌 Key Metrics Summary
-Metric	Value
-Total Cases	952 billion
-Total Deaths	10 billion
-Daily Cases	778 million
-Daily Deaths	7 million
-Daily Case Change	+2,785
-Mortality Rate	1.07%
+📌 Key | Metrics Summary
+Metric |	Value
+Total Cases	| 952 billion
+Total Deaths |	10 billion
+Daily Cases | 778 million
+Daily Deaths |	7 million
+Daily Case Change |	+2,785
+Mortality Rate | 1.07%
 
 
 
