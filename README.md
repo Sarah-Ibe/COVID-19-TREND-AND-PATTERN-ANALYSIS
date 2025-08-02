@@ -6,7 +6,7 @@
 **🧩  Overview**
 
 This report presents a comprehensive analysis of global COVID-19 trends from January 2020 to June 2025. The visualization highlights key metrics, temporal patterns, and country-level comparisons, offering valuable insights into the pandemic’s progression and mortality dynamics.
-
+<br>
 
 **📌 Key Metrics Summary**
 | Metric | Value |
