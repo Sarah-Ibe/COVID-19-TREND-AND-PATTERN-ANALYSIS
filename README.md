@@ -173,4 +173,8 @@ Trend analysis and comparative metrics
 
 Public health reporting and dashboard design
 
+**TOOLS USED**
+EXCEL
+SQL
+POWER BI
 
