@@ -18,7 +18,10 @@ Daily Deaths |	7 million
 Daily Case Change |	+2,785
 Mortality Rate | 1.07%
 
-
+| Left-aligned | Centered | Right-aligned |
+|:-------------|:--------:|--------------:|
+| Cell 1       | Cell 2   | Cell 3        |
+| Cell 4       | Cell 5   | Cell 6        |
 
 These figures reflect the cumulative and daily impact of COVID-19 globally, with a relatively low mortality rate compared to total cases.
 
