@@ -53,9 +53,10 @@ The visualization compares total cases and deaths across major countries. Key ob
 **Asia-Pacific**: Vietnam, Australia, and Thailand show lower mortality rates.
 
 
-**
-📈 New Cases vs. New Deaths Over Time
-**
+
+**📈 New Cases vs. New Deaths Over Time**
+
+
 **2022 Surge**: A notable spike in new cases occurred in 2022.
 
 **Post-2022 Decline**: Both new cases and deaths declined steadily after the peak.
@@ -65,6 +66,7 @@ The visualization compares total cases and deaths across major countries. Key ob
 
 
 **⚰️ Mortality Rate Trends**
+
 
 | Year | Mortality Rate |
 |----------|--------------------|
@@ -78,6 +80,7 @@ The mortality rate decreased consistently, indicating improved healthcare respon
 
 
 **🔍 Interactive Filters**
+
 
 The dashboard includes:
 
@@ -96,8 +99,10 @@ The declining mortality rate reflects global improvements in treatment and preve
 Country-level disparities highlight the need for equitable healthcare access and international cooperation.
 
 
-**
-🔮 Insights & Strategic Recommendations**
+
+**🔮 Insights & Strategic Recommendations**
+
+
 **🧠 Key Insights**
 
 **Global Case Plateau**: After peaking in 2024, total cases began to decline in 2025, suggesting the pandemic may be entering a controlled phase.
@@ -111,6 +116,7 @@ Country-level disparities highlight the need for equitable healthcare access and
 
 
 **🚀 Recommended Next Steps**
+
 
 **1. Strengthen Surveillance Systems**
 
